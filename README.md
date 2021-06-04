@@ -7,13 +7,6 @@ I am Sagun Pandit and I am a rising CS junior at University of Illinois -Springf
 
 
 
-### Hi there 👋, my name is Sagun
-#### I am Computer Science Junior at University of Illinois Springfield
-I enjoy solving algorithmic problems and optimizing space-time complexities. I mainly do my object oriented programming and development with Java, but I am also familiar with Python and using Tensorflow for machine learning projects. I am currently looking for opportunities in either of those fields.
-
-Skills: Java/ Python 
-
-
 
 
 
